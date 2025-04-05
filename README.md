@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá 👋
 
+Me chamo Flávia Morais.
+
+Estou aprendendo sobre automação de teste de Software
 <!--
 **flaviamariamorais/flaviamariamorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
